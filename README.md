@@ -1,5 +1,5 @@
 # AreaManager
-![Paper](https://img.shields.io/badge/Paper-1.15.2-blue)
+![Paper](https://img.shields.io/badge/Paper-1.15.2_R0.1_SNAPSHOT-blue)
 ![GitHub](https://img.shields.io/github/license/TheFallen-Devs/AreaManager)
 
 Minecraft plugin which runs on paper.
