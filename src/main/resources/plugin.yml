@@ -1,0 +1,9 @@
+name: Areamanager
+version: ${project.version}
+main: com.github.lapis0875.areamanager.Areamanager
+api-version: 1.13
+prefix: AreaManager
+depend: [Worldedit]
+authors: [sleepylapis]
+description: Area Manager plugin which use worldedit as area selection tool, and which manages selected areas.
+website: https://lapisblog.me
